@@ -1,2 +1,3 @@
 # Pythoncumo
 for pythoncumo
+#életemdöntése
